@@ -2,6 +2,10 @@
 layout: default
 title: "El corrido mexicano"
 ---
+<!--
+* __November 2022: UPDATED__ with __[instructions](./instructions.txt)__ for forking, cloning, and adapting template.
+<hr/>
+-->
 # Repository of Symbolic Music Data
 
 Corpus of MEI and MusicXML files for computer-assisted analysis from _El corrido mexicano_ (1954) by Vicente T. Mendoza.
@@ -9,7 +13,9 @@ Corpus of MEI and MusicXML files for computer-assisted analysis from _El corrido
 A demonstration of encoded repository materials that can be searched, displayed, and played in the browser. Scores encoded as MEI, using Verovio web tools for playback.
 
 Created with Jekyll template "[Ed.](https://elotroalex.github.io/ed/)" for digital editions.
-<hr>
+
+
+<hr/>
 
 <div class="toc">
   <h2><b>Corridos</b></h2>

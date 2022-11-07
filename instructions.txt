@@ -1,13 +1,22 @@
 template instructions
 
-Ready to use, just switch out your own mei files, and edit headers
-and config files. A sample page with instructions is in the
-templates folder in `_drafts`
+Ready to use, just switch out your own MEI files and edit the header accordingly.
+Update with your own data in the _config.yml.
+
+(If you need to encode your music resources,
+see this excellent step-by-step tutorial:
+https://dlfteach.pubpub.org/pub/intro-mei/release/1)
+
+If you have already created the MEI files you need,
+see the example page with instructions in the
+`templates` folder in `_drafts` : `samplePiecePage.md`
+
+USING TEMPLATE TO CREATE PERSONAL JEKYLL SITE:
 
 Fork the repository then clone onto your computer.
 
-Change the name to something appropriate.
-Download to local computer.
+Change the name to something appropriate for your project.
+
 Switch to `gh-pages` branch.
 
 Install Jekyll in the folder:
@@ -24,7 +33,11 @@ These files are kept in the `_texts` folder.
 The search page is optional. Put it into the
 `_drafts` folder if you don't need it.
 
+(For more info on options available for "Ed." theme
+see https://minicomp.github.io/ed/)
+
 To serve and view the site locally type:
 `bundle exec jekyll serve`
 
 To view the site online, push to repo.
+(You will need a personal GitHub account for this.)

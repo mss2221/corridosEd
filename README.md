@@ -4,10 +4,11 @@
 
 Corpus of MEI and MusicXML files for computer-assisted analysis, from _El corrido mexicano_ (1954) by Vicente T. Mendoza.
 
+### Nov 2022, updated instructions for using template
 ---
 
 To use as template, clone this repository:
 
 `https://github.com/mss2221/corridosEd/tree/gh-pages`
 
-and follow instructions in `/instructions.md`
+and follow instructions in `/instructions.txt`
