@@ -1,4 +1,4 @@
-template instructions
+template instructions  ( * in progress *)
 
 Ready to use, just switch out your own MEI files and edit the header accordingly.
 Update with your own data in the _config.yml.
