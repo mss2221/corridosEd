@@ -22,6 +22,22 @@ Switch to `gh-pages` branch.
 Install Jekyll in the folder:
 https://jekyllrb.com/docs/installation/
 
+(If absolutely new to Jekyll and GitHub,
+please try this tutorial:
+https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
+
+If Jekyll does not serve the website:
+
+- attend carefully to any error messages in the terminal
+  and perform any suggested actions.
+
+- try Jekyll troubleshooting https://jekyllrb.com/docs/troubleshooting/.
+- also try Jekyll Talk https://talk.jekyllrb.com/.
+
+- if you still cannot find a solution,
+    - try copying error message and pasting into browser search bar,
+    - or in the search box on Stackoverflow https://stackoverflow.com/)
+
 Follow instructions in _config.yml
 
 Place MEI files in `data/mei/`
