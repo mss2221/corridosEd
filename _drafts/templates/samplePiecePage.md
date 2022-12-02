@@ -35,7 +35,7 @@ from a TEI file, for example.
 Ya venimos, ya llegamos\\
 todos los del Maracote,\\
 todos los que destapamos\\
-del miedo del Marquesote.\*
+del miedo del Marquesote.
 
 Vengo a que me des razones\\
 de ese invito general,\\
@@ -51,8 +51,3 @@ Porque supo que había minas,\\
 dicen que entro? con violencia,\\
 ¡ay!, no fuera a reventar\\
 como judas, su Excelencia.
-
-
-
-\* Burla e ironía que incluye tres cosas: Marqués grande, aumentativo de Márquez y dulce
-esponjoso y hueco a base de huevo y azúcar, llamado marquesote.
