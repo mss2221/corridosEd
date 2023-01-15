@@ -17,6 +17,10 @@ ___
 
 The Jekyll template used to build this site, "Ed.", was specifically developed for use in minimal editions by [https://minicomp.github.io/ed/credits/](https://minicomp.github.io/ed/credits/)
 
+<<<<<<< HEAD
 <span style="color:#903E5C">__Template for this site — adapted for digital music editions —__</span> [available on GitHub.](https://github.com/mss2221/corridosEd)
+=======
+<span style="color:#903E5C">__[Template for _this_ site — for digital music editions — available on GitHub.](https://github.com/mss2221/corridosEd){:target="_blank"}__
+>>>>>>> 645087f6f4d8537cc2f17a07770c97c4c7c53175
 <br><br><br>
 Design adapted for MEI & Verovio: [Mark Saccomano](https://mss2221.github.io/saccomano/).
